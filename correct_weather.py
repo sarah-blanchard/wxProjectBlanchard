@@ -85,5 +85,9 @@ def run_Weather():
 
 run_Weather()
 
-
+#if connection successful, print wx
+#would you like to see the weather for another location?
+#yes, loop, no, goodbye
+#if unsuccessful say try again, if still having erros, try later
+#loop to beginning
 
