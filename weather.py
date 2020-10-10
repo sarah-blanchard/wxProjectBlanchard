@@ -1,6 +1,5 @@
 import requests, json
 
-#welcome_message = "Welcome Message"
 
 degree_sign= u'\N{DEGREE SIGN}'
 
@@ -75,7 +74,7 @@ def run_Weather():
 			print(your_weather)
 
 		elif (menu_option == 2):
-			print('Come back soon.')
+			print('Thank you! See you soon!')
 			break
 		
 		else:
